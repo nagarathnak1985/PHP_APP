@@ -3,6 +3,6 @@
     and i have aplied trigger as SCM Poll.
     nagarathna
     Hrasha
-    Subbu is Developer
+    Subbu 
     ";
 ?>
